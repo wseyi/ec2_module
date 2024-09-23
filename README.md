@@ -1,9 +1,13 @@
 # ec2_module
 
 **Contents**
-├─ Terraform Modules
+├─ Ec2 module 
 │  ├─ [README.md](https://github.com/wseyi/terraform-project/blob/main/README.md)
-│  ├─ ec2 module
+│  ├─ Main.tf
+│  ├─ Providers.tf
+│  ├─ Variables.tf
+│  ├─ Outputs.tf
+
 
 **Dependencies**
 * [Terraform](https://developer.hashicorp.com/terraform/install?product_intent=terraform)
